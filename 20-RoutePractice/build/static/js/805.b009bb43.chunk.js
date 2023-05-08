@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_20_routepractice=self.webpackChunk_20_routepractice||[]).push([[805],{805:function(e,c,r){r.r(c);var t=r(184);c.default=function(){return(0,t.jsx)("h2",{className:"centered",style:{color:"red"},children:"Page not Found!!!"})}}}]);
+//# sourceMappingURL=805.b009bb43.chunk.js.map
